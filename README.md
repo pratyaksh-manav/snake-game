@@ -21,9 +21,12 @@ Basic Game Loop
 
 ## ⚙️ How to Run
 
+open SnakeGame.java in your IDE and run it.
+
+or 
+
 ```bash
 git clone git@github.com:pratyaksh-manav/snake-game.git
 cd snake-game
 javac SnakeGame.java
 java SnakeGame
-Or open SnakeGame.java in your IDE and run it.
